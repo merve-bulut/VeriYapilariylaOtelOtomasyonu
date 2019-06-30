@@ -1,0 +1,225 @@
+C:\Users\merve_l7t2av4\Desktop\veriYapilariProjeOdevi\veriYapilariProjeOdevi\bin\Debug\veriYapilariProjeOdevi.exe.config
+C:\Users\merve_l7t2av4\Desktop\veriYapilariProjeOdevi\veriYapilariProjeOdevi\bin\Debug\veriYapilariProjeOdevi.exe
+C:\Users\merve_l7t2av4\Desktop\veriYapilariProjeOdevi\veriYapilariProjeOdevi\bin\Debug\veriYapilariProjeOdevi.pdb
+C:\Users\merve_l7t2av4\Desktop\veriYapilariProjeOdevi\veriYapilariProjeOdevi\obj\Debug\veriYapilariProjeOdevi.csprojAssemblyReference.cache
+C:\Users\merve_l7t2av4\Desktop\veriYapilariProjeOdevi\veriYapilariProjeOdevi\obj\Debug\veriYapilariProjeOdevi.frmIndex.resources
+C:\Users\merve_l7t2av4\Desktop\veriYapilariProjeOdevi\veriYapilariProjeOdevi\obj\Debug\veriYapilariProjeOdevi.frmPerBilgiGirisi.resources
+C:\Users\merve_l7t2av4\Desktop\veriYapilariProjeOdevi\veriYapilariProjeOdevi\obj\Debug\veriYapilariProjeOdevi.Properties.Resources.resources
+C:\Users\merve_l7t2av4\Desktop\veriYapilariProjeOdevi\veriYapilariProjeOdevi\obj\Debug\veriYapilariProjeOdevi.csproj.GenerateResource.cache
+C:\Users\merve_l7t2av4\Desktop\veriYapilariProjeOdevi\veriYapilariProjeOdevi\obj\Debug\veriYapilariProjeOdevi.csproj.CoreCompileInputs.cache
+C:\Users\merve_l7t2av4\Desktop\veriYapilariProjeOdevi\veriYapilariProjeOdevi\obj\Debug\veriYapilariProjeOdevi.exe
+C:\Users\merve_l7t2av4\Desktop\veriYapilariProjeOdevi\veriYapilariProjeOdevi\obj\Debug\veriYapilariProjeOdevi.pdb
+C:\Users\merve_l7t2av4\Desktop\veriYapilariProjeOdevi\veriYapilariProjeOdevi\bin\Debug\EntityFramework.dll
+C:\Users\merve_l7t2av4\Desktop\veriYapilariProjeOdevi\veriYapilariProjeOdevi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\merve_l7t2av4\Desktop\veriYapilariProjeOdevi\veriYapilariProjeOdevi\bin\Debug\System.Data.SQLite.dll
+C:\Users\merve_l7t2av4\Desktop\veriYapilariProjeOdevi\veriYapilariProjeOdevi\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\merve_l7t2av4\Desktop\veriYapilariProjeOdevi\veriYapilariProjeOdevi\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\merve_l7t2av4\Desktop\veriYapilariProjeOdevi\veriYapilariProjeOdevi\bin\Debug\EntityFramework.xml
+C:\Users\merve_l7t2av4\Desktop\veriYapilariProjeOdevi\veriYapilariProjeOdevi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\merve_l7t2av4\Desktop\veriYapilariProjeOdevi\veriYapilariProjeOdevi\bin\Debug\System.Data.SQLite.xml
+C:\Users\merve_l7t2av4\Desktop\veriYapilariProjeOdevi\veriYapilariProjeOdevi\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\merve_l7t2av4\Desktop\veriYapilariProjeOdevi\veriYapilariProjeOdevi\obj\Debug\veriYapilariProjeOdevi.frmGuncelle.resources
+C:\Users\merve_l7t2av4\Desktop\veriYapilariProjeOdevi\veriYapilariProjeOdevi\obj\Debug\veriYapilariProjeOdevi.frmOtelEkle.resources
+C:\Users\merve_l7t2av4\Desktop\veriYapilariProjeOdevi\veriYapilariProjeOdevi\obj\Debug\veriYapilariProjeOdevi.frmYetkiliGirisi.resources
+C:\Users\merve_l7t2av4\Desktop\veriYapilariProjeOdevi\veriYapilariProjeOdevi\obj\Debug\veriYapilariProjeOdevi.csproj.CopyComplete
+C:\Users\burkay araç\Desktop\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\obj\Debug\veriYapilariProjeOdevi.csprojAssemblyReference.cache
+C:\Users\burkay araç\Desktop\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\obj\Debug\veriYapilariProjeOdevi.frmIndex.resources
+C:\Users\burkay araç\Desktop\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\obj\Debug\veriYapilariProjeOdevi.frmGuncelle.resources
+C:\Users\burkay araç\Desktop\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\obj\Debug\veriYapilariProjeOdevi.frmOtelEkle.resources
+C:\Users\burkay araç\Desktop\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\obj\Debug\veriYapilariProjeOdevi.frmPerBilgiGirisi.resources
+C:\Users\burkay araç\Desktop\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\obj\Debug\veriYapilariProjeOdevi.frmSehirEkle.resources
+C:\Users\burkay araç\Desktop\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\obj\Debug\veriYapilariProjeOdevi.frmYetkiliGirisi.resources
+C:\Users\burkay araç\Desktop\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\obj\Debug\veriYapilariProjeOdevi.Properties.Resources.resources
+C:\Users\burkay araç\Desktop\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\obj\Debug\veriYapilariProjeOdevi.csproj.GenerateResource.cache
+C:\Users\burkay araç\Desktop\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\obj\Debug\veriYapilariProjeOdevi.csproj.CoreCompileInputs.cache
+C:\Users\burkay araç\Desktop\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\obj\Debug\veriYapilariProjeOdevi.exe
+C:\Users\burkay araç\Desktop\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\obj\Debug\veriYapilariProjeOdevi.pdb
+C:\Users\burkay araç\Desktop\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\bin\Debug\veriYapilariProjeOdevi.exe.config
+C:\Users\burkay araç\Desktop\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\bin\Debug\veriYapilariProjeOdevi.exe
+C:\Users\burkay araç\Desktop\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\bin\Debug\veriYapilariProjeOdevi.pdb
+C:\Users\burkay araç\Desktop\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\bin\Debug\EntityFramework.dll
+C:\Users\burkay araç\Desktop\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\burkay araç\Desktop\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\bin\Debug\System.Data.SQLite.dll
+C:\Users\burkay araç\Desktop\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\burkay araç\Desktop\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\burkay araç\Desktop\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\bin\Debug\EntityFramework.xml
+C:\Users\burkay araç\Desktop\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\burkay araç\Desktop\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\bin\Debug\System.Data.SQLite.xml
+C:\Users\burkay araç\Desktop\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\burkay araç\Desktop\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\obj\Debug\veriYapilariProjeOdevi.csproj.CopyComplete
+C:\Users\merve_l7t2av4\Desktop\Yeni klasör\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\bin\Debug\veriYapilariProjeOdevi.exe.config
+C:\Users\merve_l7t2av4\Desktop\Yeni klasör\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\bin\Debug\veriYapilariProjeOdevi.exe
+C:\Users\merve_l7t2av4\Desktop\Yeni klasör\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\bin\Debug\veriYapilariProjeOdevi.pdb
+C:\Users\merve_l7t2av4\Desktop\Yeni klasör\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\bin\Debug\EntityFramework.dll
+C:\Users\merve_l7t2av4\Desktop\Yeni klasör\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\merve_l7t2av4\Desktop\Yeni klasör\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\bin\Debug\System.Data.SQLite.dll
+C:\Users\merve_l7t2av4\Desktop\Yeni klasör\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\merve_l7t2av4\Desktop\Yeni klasör\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\merve_l7t2av4\Desktop\Yeni klasör\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\bin\Debug\EntityFramework.xml
+C:\Users\merve_l7t2av4\Desktop\Yeni klasör\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\merve_l7t2av4\Desktop\Yeni klasör\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\bin\Debug\System.Data.SQLite.xml
+C:\Users\merve_l7t2av4\Desktop\Yeni klasör\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\merve_l7t2av4\Desktop\Yeni klasör\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\obj\Debug\veriYapilariProjeOdevi.csprojAssemblyReference.cache
+C:\Users\merve_l7t2av4\Desktop\Yeni klasör\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\obj\Debug\veriYapilariProjeOdevi.frmIndex.resources
+C:\Users\merve_l7t2av4\Desktop\Yeni klasör\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\obj\Debug\veriYapilariProjeOdevi.frmGuncelle.resources
+C:\Users\merve_l7t2av4\Desktop\Yeni klasör\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\obj\Debug\veriYapilariProjeOdevi.frmOtelEkle.resources
+C:\Users\merve_l7t2av4\Desktop\Yeni klasör\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\obj\Debug\veriYapilariProjeOdevi.frmPerBilgiGirisi.resources
+C:\Users\merve_l7t2av4\Desktop\Yeni klasör\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\obj\Debug\veriYapilariProjeOdevi.frmSehirEkle.resources
+C:\Users\merve_l7t2av4\Desktop\Yeni klasör\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\obj\Debug\veriYapilariProjeOdevi.frmYetkiliGirisi.resources
+C:\Users\merve_l7t2av4\Desktop\Yeni klasör\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\obj\Debug\veriYapilariProjeOdevi.Properties.Resources.resources
+C:\Users\merve_l7t2av4\Desktop\Yeni klasör\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\obj\Debug\veriYapilariProjeOdevi.csproj.GenerateResource.cache
+C:\Users\merve_l7t2av4\Desktop\Yeni klasör\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\obj\Debug\veriYapilariProjeOdevi.csproj.CoreCompileInputs.cache
+C:\Users\merve_l7t2av4\Desktop\Yeni klasör\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\obj\Debug\veriYapilariProjeOdevi.csproj.CopyComplete
+C:\Users\merve_l7t2av4\Desktop\Yeni klasör\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\obj\Debug\veriYapilariProjeOdevi.exe
+C:\Users\merve_l7t2av4\Desktop\Yeni klasör\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\obj\Debug\veriYapilariProjeOdevi.pdb
+C:\Users\merve_l7t2av4\Desktop\Yeni klasör\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\obj\Debug\veriYapilariProjeOdevi.frmIl_IlceyeGore.resources
+C:\Users\merve_l7t2av4\Desktop\Yeni klasör\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\obj\Debug\veriYapilariProjeOdevi.frmOtelDeger.resources
+C:\Users\merve_l7t2av4\Desktop\Yeni klasör\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\obj\Debug\veriYapilariProjeOdevi.frmOtelGoruntule.resources
+C:\Users\merve_l7t2av4\Desktop\Yeni klasör\veriYapilariProjeOdevi2\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\bin\Debug\veriYapilariProjeOdevi.exe.config
+C:\Users\merve_l7t2av4\Desktop\Yeni klasör\veriYapilariProjeOdevi2\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\bin\Debug\veriYapilariProjeOdevi.exe
+C:\Users\merve_l7t2av4\Desktop\Yeni klasör\veriYapilariProjeOdevi2\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\bin\Debug\veriYapilariProjeOdevi.pdb
+C:\Users\merve_l7t2av4\Desktop\Yeni klasör\veriYapilariProjeOdevi2\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\bin\Debug\EntityFramework.dll
+C:\Users\merve_l7t2av4\Desktop\Yeni klasör\veriYapilariProjeOdevi2\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\merve_l7t2av4\Desktop\Yeni klasör\veriYapilariProjeOdevi2\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\bin\Debug\System.Data.SQLite.dll
+C:\Users\merve_l7t2av4\Desktop\Yeni klasör\veriYapilariProjeOdevi2\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\merve_l7t2av4\Desktop\Yeni klasör\veriYapilariProjeOdevi2\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\merve_l7t2av4\Desktop\Yeni klasör\veriYapilariProjeOdevi2\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\bin\Debug\EntityFramework.xml
+C:\Users\merve_l7t2av4\Desktop\Yeni klasör\veriYapilariProjeOdevi2\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\merve_l7t2av4\Desktop\Yeni klasör\veriYapilariProjeOdevi2\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\bin\Debug\System.Data.SQLite.xml
+C:\Users\merve_l7t2av4\Desktop\Yeni klasör\veriYapilariProjeOdevi2\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\merve_l7t2av4\Desktop\Yeni klasör\veriYapilariProjeOdevi2\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\obj\Debug\veriYapilariProjeOdevi.csprojAssemblyReference.cache
+C:\Users\merve_l7t2av4\Desktop\Yeni klasör\veriYapilariProjeOdevi2\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\obj\Debug\veriYapilariProjeOdevi.frmIndex.resources
+C:\Users\merve_l7t2av4\Desktop\Yeni klasör\veriYapilariProjeOdevi2\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\obj\Debug\veriYapilariProjeOdevi.frmGuncelle.resources
+C:\Users\merve_l7t2av4\Desktop\Yeni klasör\veriYapilariProjeOdevi2\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\obj\Debug\veriYapilariProjeOdevi.frmIl_IlceyeGore.resources
+C:\Users\merve_l7t2av4\Desktop\Yeni klasör\veriYapilariProjeOdevi2\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\obj\Debug\veriYapilariProjeOdevi.frmPuanYildiz.resources
+C:\Users\merve_l7t2av4\Desktop\Yeni klasör\veriYapilariProjeOdevi2\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\obj\Debug\veriYapilariProjeOdevi.frmOtelDeger.resources
+C:\Users\merve_l7t2av4\Desktop\Yeni klasör\veriYapilariProjeOdevi2\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\obj\Debug\veriYapilariProjeOdevi.frmOtelEkle.resources
+C:\Users\merve_l7t2av4\Desktop\Yeni klasör\veriYapilariProjeOdevi2\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\obj\Debug\veriYapilariProjeOdevi.frmOtelGoruntule.resources
+C:\Users\merve_l7t2av4\Desktop\Yeni klasör\veriYapilariProjeOdevi2\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\obj\Debug\veriYapilariProjeOdevi.frmPerBilgiGirisi.resources
+C:\Users\merve_l7t2av4\Desktop\Yeni klasör\veriYapilariProjeOdevi2\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\obj\Debug\veriYapilariProjeOdevi.frmSehirEkle.resources
+C:\Users\merve_l7t2av4\Desktop\Yeni klasör\veriYapilariProjeOdevi2\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\obj\Debug\veriYapilariProjeOdevi.frmYetkiliGirisi.resources
+C:\Users\merve_l7t2av4\Desktop\Yeni klasör\veriYapilariProjeOdevi2\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\obj\Debug\veriYapilariProjeOdevi.Properties.Resources.resources
+C:\Users\merve_l7t2av4\Desktop\Yeni klasör\veriYapilariProjeOdevi2\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\obj\Debug\veriYapilariProjeOdevi.csproj.GenerateResource.cache
+C:\Users\merve_l7t2av4\Desktop\Yeni klasör\veriYapilariProjeOdevi2\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\obj\Debug\veriYapilariProjeOdevi.csproj.CoreCompileInputs.cache
+C:\Users\merve_l7t2av4\Desktop\Yeni klasör\veriYapilariProjeOdevi2\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\obj\Debug\veriYapilariProjeOdevi.csproj.CopyComplete
+C:\Users\merve_l7t2av4\Desktop\Yeni klasör\veriYapilariProjeOdevi2\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\obj\Debug\veriYapilariProjeOdevi.exe
+C:\Users\merve_l7t2av4\Desktop\Yeni klasör\veriYapilariProjeOdevi2\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\obj\Debug\veriYapilariProjeOdevi.pdb
+C:\Users\merve_l7t2av4\Desktop\Yeni klasör\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\obj\Debug\veriYapilariProjeOdevi.frmPuanYildiz.resources
+C:\Users\burkay araç\Desktop\veriYapilariProjesi\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\obj\Debug\veriYapilariProjeOdevi.csprojAssemblyReference.cache
+C:\Users\burkay araç\Desktop\veriYapilariProjesi\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\obj\Debug\veriYapilariProjeOdevi.frmIndex.resources
+C:\Users\burkay araç\Desktop\veriYapilariProjesi\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\obj\Debug\veriYapilariProjeOdevi.frmGuncelle.resources
+C:\Users\burkay araç\Desktop\veriYapilariProjesi\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\obj\Debug\veriYapilariProjeOdevi.frmIl_IlceyeGore.resources
+C:\Users\burkay araç\Desktop\veriYapilariProjesi\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\obj\Debug\veriYapilariProjeOdevi.frmOtelDeger.resources
+C:\Users\burkay araç\Desktop\veriYapilariProjesi\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\obj\Debug\veriYapilariProjeOdevi.frmOtelEkle.resources
+C:\Users\burkay araç\Desktop\veriYapilariProjesi\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\obj\Debug\veriYapilariProjeOdevi.frmOtelGoruntule.resources
+C:\Users\burkay araç\Desktop\veriYapilariProjesi\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\obj\Debug\veriYapilariProjeOdevi.frmPerBilgiGirisi.resources
+C:\Users\burkay araç\Desktop\veriYapilariProjesi\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\obj\Debug\veriYapilariProjeOdevi.frmSehirEkle.resources
+C:\Users\burkay araç\Desktop\veriYapilariProjesi\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\obj\Debug\veriYapilariProjeOdevi.frmYetkiliGirisi.resources
+C:\Users\burkay araç\Desktop\veriYapilariProjesi\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\obj\Debug\veriYapilariProjeOdevi.Properties.Resources.resources
+C:\Users\burkay araç\Desktop\veriYapilariProjesi\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\obj\Debug\veriYapilariProjeOdevi.csproj.GenerateResource.cache
+C:\Users\burkay araç\Desktop\veriYapilariProjesi\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\obj\Debug\veriYapilariProjeOdevi.csproj.CoreCompileInputs.cache
+C:\Users\burkay araç\Desktop\veriYapilariProjesi\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\obj\Debug\veriYapilariProjeOdevi.exe
+C:\Users\burkay araç\Desktop\veriYapilariProjesi\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\obj\Debug\veriYapilariProjeOdevi.pdb
+C:\Users\burkay araç\Desktop\veriYapilariProjesi\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\bin\Debug\veriYapilariProjeOdevi.exe.config
+C:\Users\burkay araç\Desktop\veriYapilariProjesi\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\bin\Debug\veriYapilariProjeOdevi.exe
+C:\Users\burkay araç\Desktop\veriYapilariProjesi\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\bin\Debug\veriYapilariProjeOdevi.pdb
+C:\Users\burkay araç\Desktop\veriYapilariProjesi\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\bin\Debug\EntityFramework.dll
+C:\Users\burkay araç\Desktop\veriYapilariProjesi\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\burkay araç\Desktop\veriYapilariProjesi\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\bin\Debug\System.Data.SQLite.dll
+C:\Users\burkay araç\Desktop\veriYapilariProjesi\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\burkay araç\Desktop\veriYapilariProjesi\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\burkay araç\Desktop\veriYapilariProjesi\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\bin\Debug\EntityFramework.xml
+C:\Users\burkay araç\Desktop\veriYapilariProjesi\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\burkay araç\Desktop\veriYapilariProjesi\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\bin\Debug\System.Data.SQLite.xml
+C:\Users\burkay araç\Desktop\veriYapilariProjesi\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\burkay araç\Desktop\veriYapilariProjesi\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\obj\Debug\veriYapilariProjeOdevi.csproj.CopyComplete
+C:\Users\merve_l7t2av4\Desktop\veriYapilari\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\bin\Debug\veriYapilariProjeOdevi.exe.config
+C:\Users\merve_l7t2av4\Desktop\veriYapilari\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\bin\Debug\veriYapilariProjeOdevi.exe
+C:\Users\merve_l7t2av4\Desktop\veriYapilari\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\bin\Debug\veriYapilariProjeOdevi.pdb
+C:\Users\merve_l7t2av4\Desktop\veriYapilari\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\bin\Debug\EntityFramework.dll
+C:\Users\merve_l7t2av4\Desktop\veriYapilari\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\merve_l7t2av4\Desktop\veriYapilari\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\bin\Debug\System.Data.SQLite.dll
+C:\Users\merve_l7t2av4\Desktop\veriYapilari\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\merve_l7t2av4\Desktop\veriYapilari\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\merve_l7t2av4\Desktop\veriYapilari\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\bin\Debug\EntityFramework.xml
+C:\Users\merve_l7t2av4\Desktop\veriYapilari\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\merve_l7t2av4\Desktop\veriYapilari\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\bin\Debug\System.Data.SQLite.xml
+C:\Users\merve_l7t2av4\Desktop\veriYapilari\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\merve_l7t2av4\Desktop\veriYapilari\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\obj\Debug\veriYapilariProjeOdevi.csprojAssemblyReference.cache
+C:\Users\merve_l7t2av4\Desktop\veriYapilari\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\obj\Debug\veriYapilariProjeOdevi.frmIndex.resources
+C:\Users\merve_l7t2av4\Desktop\veriYapilari\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\obj\Debug\veriYapilariProjeOdevi.frmGuncelle.resources
+C:\Users\merve_l7t2av4\Desktop\veriYapilari\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\obj\Debug\veriYapilariProjeOdevi.frmIl_IlceyeGore.resources
+C:\Users\merve_l7t2av4\Desktop\veriYapilari\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\obj\Debug\veriYapilariProjeOdevi.frmOtelDeger.resources
+C:\Users\merve_l7t2av4\Desktop\veriYapilari\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\obj\Debug\veriYapilariProjeOdevi.frmOtelEkle.resources
+C:\Users\merve_l7t2av4\Desktop\veriYapilari\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\obj\Debug\veriYapilariProjeOdevi.frmOtelGoruntule.resources
+C:\Users\merve_l7t2av4\Desktop\veriYapilari\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\obj\Debug\veriYapilariProjeOdevi.frmPerBilgiGirisi.resources
+C:\Users\merve_l7t2av4\Desktop\veriYapilari\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\obj\Debug\veriYapilariProjeOdevi.frmSehirEkle.resources
+C:\Users\merve_l7t2av4\Desktop\veriYapilari\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\obj\Debug\veriYapilariProjeOdevi.frmYetkiliGirisi.resources
+C:\Users\merve_l7t2av4\Desktop\veriYapilari\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\obj\Debug\veriYapilariProjeOdevi.Properties.Resources.resources
+C:\Users\merve_l7t2av4\Desktop\veriYapilari\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\obj\Debug\veriYapilariProjeOdevi.csproj.GenerateResource.cache
+C:\Users\merve_l7t2av4\Desktop\veriYapilari\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\obj\Debug\veriYapilariProjeOdevi.csproj.CoreCompileInputs.cache
+C:\Users\merve_l7t2av4\Desktop\veriYapilari\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\obj\Debug\veriYapilariProjeOdevi.csproj.CopyComplete
+C:\Users\merve_l7t2av4\Desktop\veriYapilari\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\obj\Debug\veriYapilariProjeOdevi.exe
+C:\Users\merve_l7t2av4\Desktop\veriYapilari\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\obj\Debug\veriYapilariProjeOdevi.pdb
+C:\Users\merve_l7t2av4\Desktop\veriYapilari\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\obj\Debug\veriYapilariProjeOdevi.frmPerGuncelle.resources
+C:\Users\merve_l7t2av4\Desktop\veriYapilari\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\obj\Debug\veriYapilariProjeOdevi.frmPerListele.resources
+C:\Users\merve_l7t2av4\Desktop\veriYapilari\Yeni klasör\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\bin\Debug\veriYapilariProjeOdevi.exe.config
+C:\Users\merve_l7t2av4\Desktop\veriYapilari\Yeni klasör\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\bin\Debug\veriYapilariProjeOdevi.exe
+C:\Users\merve_l7t2av4\Desktop\veriYapilari\Yeni klasör\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\bin\Debug\veriYapilariProjeOdevi.pdb
+C:\Users\merve_l7t2av4\Desktop\veriYapilari\Yeni klasör\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\bin\Debug\EntityFramework.dll
+C:\Users\merve_l7t2av4\Desktop\veriYapilari\Yeni klasör\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\merve_l7t2av4\Desktop\veriYapilari\Yeni klasör\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\bin\Debug\System.Data.SQLite.dll
+C:\Users\merve_l7t2av4\Desktop\veriYapilari\Yeni klasör\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\merve_l7t2av4\Desktop\veriYapilari\Yeni klasör\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\merve_l7t2av4\Desktop\veriYapilari\Yeni klasör\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\bin\Debug\EntityFramework.xml
+C:\Users\merve_l7t2av4\Desktop\veriYapilari\Yeni klasör\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\merve_l7t2av4\Desktop\veriYapilari\Yeni klasör\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\bin\Debug\System.Data.SQLite.xml
+C:\Users\merve_l7t2av4\Desktop\veriYapilari\Yeni klasör\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\merve_l7t2av4\Desktop\veriYapilari\Yeni klasör\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\obj\Debug\veriYapilariProjeOdevi.csprojAssemblyReference.cache
+C:\Users\merve_l7t2av4\Desktop\veriYapilari\Yeni klasör\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\obj\Debug\veriYapilariProjeOdevi.frmIndex.resources
+C:\Users\merve_l7t2av4\Desktop\veriYapilari\Yeni klasör\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\obj\Debug\veriYapilariProjeOdevi.frmGuncelle.resources
+C:\Users\merve_l7t2av4\Desktop\veriYapilari\Yeni klasör\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\obj\Debug\veriYapilariProjeOdevi.frmIl_IlceyeGore.resources
+C:\Users\merve_l7t2av4\Desktop\veriYapilari\Yeni klasör\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\obj\Debug\veriYapilariProjeOdevi.frmOtelDeger.resources
+C:\Users\merve_l7t2av4\Desktop\veriYapilari\Yeni klasör\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\obj\Debug\veriYapilariProjeOdevi.frmOtelEkle.resources
+C:\Users\merve_l7t2av4\Desktop\veriYapilari\Yeni klasör\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\obj\Debug\veriYapilariProjeOdevi.frmOtelGoruntule.resources
+C:\Users\merve_l7t2av4\Desktop\veriYapilari\Yeni klasör\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\obj\Debug\veriYapilariProjeOdevi.frmPerBilgiGirisi.resources
+C:\Users\merve_l7t2av4\Desktop\veriYapilari\Yeni klasör\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\obj\Debug\veriYapilariProjeOdevi.frmPerGuncelle.resources
+C:\Users\merve_l7t2av4\Desktop\veriYapilari\Yeni klasör\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\obj\Debug\veriYapilariProjeOdevi.frmPerListele.resources
+C:\Users\merve_l7t2av4\Desktop\veriYapilari\Yeni klasör\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\obj\Debug\veriYapilariProjeOdevi.frmSehirEkle.resources
+C:\Users\merve_l7t2av4\Desktop\veriYapilari\Yeni klasör\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\obj\Debug\veriYapilariProjeOdevi.frmYetkiliGirisi.resources
+C:\Users\merve_l7t2av4\Desktop\veriYapilari\Yeni klasör\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\obj\Debug\veriYapilariProjeOdevi.Properties.Resources.resources
+C:\Users\merve_l7t2av4\Desktop\veriYapilari\Yeni klasör\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\obj\Debug\veriYapilariProjeOdevi.csproj.GenerateResource.cache
+C:\Users\merve_l7t2av4\Desktop\veriYapilari\Yeni klasör\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\obj\Debug\veriYapilariProjeOdevi.csproj.CoreCompileInputs.cache
+C:\Users\merve_l7t2av4\Desktop\veriYapilari\Yeni klasör\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\obj\Debug\veriYapilariProjeOdevi.csproj.CopyComplete
+C:\Users\merve_l7t2av4\Desktop\veriYapilari\Yeni klasör\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\obj\Debug\veriYapilariProjeOdevi.exe
+C:\Users\merve_l7t2av4\Desktop\veriYapilari\Yeni klasör\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\obj\Debug\veriYapilariProjeOdevi.pdb
+C:\Users\merve_l7t2av4\Desktop\veriYapilari\Yeni klasör\veriYapi\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\bin\Debug\veriYapilariProjeOdevi.exe.config
+C:\Users\merve_l7t2av4\Desktop\veriYapilari\Yeni klasör\veriYapi\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\bin\Debug\veriYapilariProjeOdevi.exe
+C:\Users\merve_l7t2av4\Desktop\veriYapilari\Yeni klasör\veriYapi\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\bin\Debug\veriYapilariProjeOdevi.pdb
+C:\Users\merve_l7t2av4\Desktop\veriYapilari\Yeni klasör\veriYapi\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\bin\Debug\EntityFramework.dll
+C:\Users\merve_l7t2av4\Desktop\veriYapilari\Yeni klasör\veriYapi\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\merve_l7t2av4\Desktop\veriYapilari\Yeni klasör\veriYapi\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\bin\Debug\System.Data.SQLite.dll
+C:\Users\merve_l7t2av4\Desktop\veriYapilari\Yeni klasör\veriYapi\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\merve_l7t2av4\Desktop\veriYapilari\Yeni klasör\veriYapi\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\merve_l7t2av4\Desktop\veriYapilari\Yeni klasör\veriYapi\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\bin\Debug\EntityFramework.xml
+C:\Users\merve_l7t2av4\Desktop\veriYapilari\Yeni klasör\veriYapi\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\merve_l7t2av4\Desktop\veriYapilari\Yeni klasör\veriYapi\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\bin\Debug\System.Data.SQLite.xml
+C:\Users\merve_l7t2av4\Desktop\veriYapilari\Yeni klasör\veriYapi\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\merve_l7t2av4\Desktop\veriYapilari\Yeni klasör\veriYapi\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\obj\Debug\veriYapilariProjeOdevi.csprojAssemblyReference.cache
+C:\Users\merve_l7t2av4\Desktop\veriYapilari\Yeni klasör\veriYapi\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\obj\Debug\veriYapilariProjeOdevi.frmIndex.resources
+C:\Users\merve_l7t2av4\Desktop\veriYapilari\Yeni klasör\veriYapi\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\obj\Debug\veriYapilariProjeOdevi.frmGuncelle.resources
+C:\Users\merve_l7t2av4\Desktop\veriYapilari\Yeni klasör\veriYapi\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\obj\Debug\veriYapilariProjeOdevi.frmIl_IlceyeGore.resources
+C:\Users\merve_l7t2av4\Desktop\veriYapilari\Yeni klasör\veriYapi\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\obj\Debug\veriYapilariProjeOdevi.frmOtelDeger.resources
+C:\Users\merve_l7t2av4\Desktop\veriYapilari\Yeni klasör\veriYapi\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\obj\Debug\veriYapilariProjeOdevi.frmOtelEkle.resources
+C:\Users\merve_l7t2av4\Desktop\veriYapilari\Yeni klasör\veriYapi\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\obj\Debug\veriYapilariProjeOdevi.frmOtelGoruntule.resources
+C:\Users\merve_l7t2av4\Desktop\veriYapilari\Yeni klasör\veriYapi\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\obj\Debug\veriYapilariProjeOdevi.frmPerBilgiGirisi.resources
+C:\Users\merve_l7t2av4\Desktop\veriYapilari\Yeni klasör\veriYapi\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\obj\Debug\veriYapilariProjeOdevi.frmPerGuncelle.resources
+C:\Users\merve_l7t2av4\Desktop\veriYapilari\Yeni klasör\veriYapi\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\obj\Debug\veriYapilariProjeOdevi.frmPerListele.resources
+C:\Users\merve_l7t2av4\Desktop\veriYapilari\Yeni klasör\veriYapi\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\obj\Debug\veriYapilariProjeOdevi.frmSehirEkle.resources
+C:\Users\merve_l7t2av4\Desktop\veriYapilari\Yeni klasör\veriYapi\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\obj\Debug\veriYapilariProjeOdevi.frmYetkiliGirisi.resources
+C:\Users\merve_l7t2av4\Desktop\veriYapilari\Yeni klasör\veriYapi\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\obj\Debug\veriYapilariProjeOdevi.Properties.Resources.resources
+C:\Users\merve_l7t2av4\Desktop\veriYapilari\Yeni klasör\veriYapi\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\obj\Debug\veriYapilariProjeOdevi.csproj.GenerateResource.cache
+C:\Users\merve_l7t2av4\Desktop\veriYapilari\Yeni klasör\veriYapi\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\obj\Debug\veriYapilariProjeOdevi.csproj.CoreCompileInputs.cache
+C:\Users\merve_l7t2av4\Desktop\veriYapilari\Yeni klasör\veriYapi\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\obj\Debug\veriYapilariProjeOdevi.csproj.CopyComplete
+C:\Users\merve_l7t2av4\Desktop\veriYapilari\Yeni klasör\veriYapi\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\obj\Debug\veriYapilariProjeOdevi.exe
+C:\Users\merve_l7t2av4\Desktop\veriYapilari\Yeni klasör\veriYapi\veriYapilariProjeOdevi1\veriYapilariProjeOdevi\obj\Debug\veriYapilariProjeOdevi.pdb
